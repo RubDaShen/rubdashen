@@ -1,10 +1,39 @@
-<a><img src="assets/gif/banner.gif" width="100%" height="auto"/></a>
+<!-- 
+Hi! 
+This is an automated comment...
+Thanks for checking out the code. 
+Feel free to take anything you like.
+-->
 
-<p> Profile under <b>construction<b> 🚧🏗️</p>
+<a><img src="assets/gif/banner.gif" width="100%"/></a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rubdashen&show_icons=true&theme=dark" alt="RubDaShen's GitHub stats" />
+<p> Profile always <b>changing 🚧🏗️ | Thanks </b>for reading 🙇🏻</p>
 
-<h3>💻 What I use to craft software</h3>
+---
+
+
+<h3>🪞 About me</h3>
+<div align="center">
+  <samp>
+    Yellow! 👋 I am
+    <p align="center">
+      <img src="assets/images/nametag.png" width="150px"/>
+      <br/>
+      <samp style="color:#ccc">"Everything has its time"</samp>
+    </p>
+  </samp>
+</div>
+
+- 💡 I love to <i><b>C</b>raft</i>, <i><b>R</b>esolve</i>, <i><b>E</b>xplore</i>, <i><b>A</b>ccept</i>, <i><b>T</b>hink</i>, <i><b>E</b>nvision</i>. Means that I love to create.
+- 👷 I will become a <samp><b>Software Engineer</b></samp> in the foreseeable future.
+
+- ❤️ I love my <b>parents</b>, my <b>dear God</b>, and my <b>cat</b>.
+
+- 🎯 Currently working on an <b><samp>awesome</samp></b> personal project
+
+- 🐈 My cat sat on my keyboooooardfmdmnval,./l;p[-]kopmk
+
+<h3>💻 My knowledge</h3> 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img
@@ -20,13 +49,30 @@
    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
+<h3>📍 While you are here...</h3>
+<a href="https://github.com/rubdashen/Riinso">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubdashen&repo=Riinso" />
+</a>
 
 <h3>🔗 Let's connect!</h3>
-<p>
+<p align="center">
   <!-- GitHub -->
   <a href="https://github.com/rubdashen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/882338516338614314" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  alt="discord logo"/></a>
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@rubdashen" target="_blank" rel="noopener noreferrer"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rubdashen" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-F75A6F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
   <!-- And I have no other social media at the momemnt~ -->
 </p>
+
+---
+
+```riinso 
+/create var message "have a wonderful day :D" 
+/print message
+```
+
+✏️ <samp>v. 1.0.0 - <b>Archimedes | </b></samp> <img align="center" src="https://komarev.com/ghpvc/?username=rubdashen&color=blue&style=round-square&label=Mysterious Number" /> <img align="center" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
