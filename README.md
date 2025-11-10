@@ -1,6 +1,5 @@
 <!-- 
 Hi! 
-This is an automated comment...
 Thanks for checking out the code. 
 Feel free to take anything you like.
 -->
@@ -12,49 +11,65 @@ Feel free to take anything you like.
 ---
 
 
-<h3>🪞 About me</h3>
+<h3 align="center">🪞 About me</h3>
 <div align="center">
-  <samp>
+  <samp style="font-size: 22px;">
     Yellow! 👋 I am
     <p align="center">
       <img src="assets/images/nametag.png" width="150px"/>
       <br/>
-      <samp style="color:#ccc">"Everything has its time"</samp>
-    </p>
+      <span style="color:#ccc">"Everything has its time"</span>
   </samp>
 </div>
 
-- 💡 I love to <i><b>C</b>raft</i>, <i><b>R</b>esolve</i>, <i><b>E</b>xplore</i>, <i><b>A</b>ccept</i>, <i><b>T</b>hink</i>, <i><b>E</b>nvision</i>. Means that I love to create.
-- 👷 I will become a <samp><b>Software Engineer</b></samp> in the foreseeable future.
+<p align="center">▀▄▀▄▀ જ⁀➴🪲 ▀▄▀▄▀</p>
+                        
+<div align="center">
 
-- ❤️ I love my <b>parents</b>, my <b>dear God</b>, and my <b>cat</b>.
+💡 I love to <i><b>C</b>raft</i>, <i><b>R</b>esolve</i>, <i><b>E</b>xplore</i>, <i><b>A</b>ccept</i>, <i><b>T</b>hink</i>, <i><b>E</b>nvision</i>. Means that I love to create.
 
-- 🎯 Currently working on an <b><samp>awesome</samp></b> personal project
+👷 I will become a <samp><b>Software Engineer</b></samp> in the foreseeable future.
 
-- 🐈 My cat sat on my keyboooooardfmdmnval,./l;p[-]kopmk
+❤️ I love my <b>parents</b>, my <b>dear God</b>, and my <b>cat</b>.
 
-<h3>💻 My knowledge</h3> 
+🎯 Currently working on an <b><samp>awesome</samp></b> personal project
+
+🐈 My cat sat on my keyboooooardfmdmnval,./l;p[-]kopmk
+
+</div>
+
+---
+
+<h3 align="center">💻 My knowledge</h3> 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img
+  <div align="center">
+  <img
       alt="My Skills"
       loading="lazy"
       decoding="async"
       src="https://skillicons.dev/icons?i=cpp,cs,kotlin,java,js,ts,php,py,dart,react,angular,vue,html,css,nodejs,net,nest,flutter,mongo,mysql,postgresql,docker,git,ps,figma,androidstudio,vscode,idea" />
-  </a>
+  </div>
 
-  <img alt="libGDX" src="https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <div align="center">
+    <img alt="libGDX" src="https://img.shields.io/badge/libGDX-E74C3C?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  </div>
 </p>
 
-<h3>📍 While you are here...</h3>
-<a href="https://github.com/rubdashen/Riinso">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubdashen&repo=Riinso" />
-</a>
+---
 
-<h3>🔗 Let's connect!</h3>
+<h3 align="center">📍 While you are here...</h3>
+<div align="center">
+  <a href="https://github.com/rubdashen/Riinso">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubdashen&repo=Riinso" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">🔗 Let's connect!</h3>
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/rubdashen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -75,4 +90,4 @@ Feel free to take anything you like.
 /print message
 ```
 
-✏️ <samp>v. 1.0.0 - <b>Archimedes | </b></samp> <img align="center" src="https://komarev.com/ghpvc/?username=rubdashen&color=blue&style=round-square&label=Mysterious Number" /> <img align="center" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
+✏️ <samp>v. 1.0.0 - <b>Archimedes | </b></samp> <img align="center" src="https://komarev.com/ghpvc/?username=rubdashen&color=blue&style=round-square&label=Mysterious+Number"/> <img align="center" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
