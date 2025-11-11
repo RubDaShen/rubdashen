@@ -11,7 +11,7 @@ Feel free to take anything you like.
 ---
 
 
-<h3 align="center">🪞 About me</h3>
+<h2 align="center">🪞 About me</h2>
 <div align="center">
   <samp style="font-size: 22px;">
     Yellow! 👋 I am
@@ -40,7 +40,7 @@ Feel free to take anything you like.
 
 ---
 
-<h3 align="center">💻 My knowledge</h3> 
+<h2 align="center">💻 My knowledge</h2> 
 <p align="center">
   <div align="center">
   <img
@@ -60,7 +60,7 @@ Feel free to take anything you like.
 
 ---
 
-<h3 align="center">📍 While you are here...</h3>
+<h2 align="center">📍 While you are here...</h2>
 <div align="center">
   <a href="https://github.com/rubdashen/Riinso">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubdashen&repo=Riinso" />
@@ -69,7 +69,7 @@ Feel free to take anything you like.
 
 ---
 
-<h3 align="center">🔗 Let's connect!</h3>
+<h2 align="center">🔗 Let's connect!</h2>
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/rubdashen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -90,4 +90,4 @@ Feel free to take anything you like.
 /print message
 ```
 
-✏️ <samp>v. 1.0.0 - <b>Archimedes | </b></samp> <img align="center" src="https://komarev.com/ghpvc/?username=rubdashen&color=blue&style=round-square&label=Mysterious+Number"/> <img align="center" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
+✏️ <samp>v. 1.0.1 - <b>Archimedes | </b></samp> <img align="center" src="https://komarev.com/ghpvc/?username=rubdashen&color=blue&style=round-square&label=Mysterious+Number"/> <img align="center" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
